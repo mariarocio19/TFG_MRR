@@ -5,10 +5,6 @@ library(BatchGetSymbols)
 library(PortfolioAnalytics)
 library(PerformanceAnalytics)
 library(DEoptim)
-library(ROI)
-library(ROI.plugin.symphony)
-library(ROI.plugin.quadprog)
-library(ROI.plugin.glpk)
 
 
 #Creamos nuestra cartera de acciones gracias a los datos extraídos de yahoo finance:
